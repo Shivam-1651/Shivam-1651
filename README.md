@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Shishodia</h1>
 <h3 align="center">Hi,I'am Shivam Shishodia, a Front-end Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fembed-ssl.wistia.com%2Fdeliveries%2Fa056afbed3974a1c593a95005624d0f88ababe5d.jpg&imgrefurl=https%3A%2F%2Fphotography.tutsplus.com%2Farticles%2Ftop-coding-programming-scene-animation-templates-after-effects--cms-38984&tbnid=7pxIKX5OoPR5DM&vet=12ahUKEwiL4dHEjrb9AhXx5XMBHTmvD-QQMygHegUIARD8AQ..i&docid=Es57InoTXgRM-M&w=1920&h=1080&q=animated%20coding%20%20images&ved=2ahUKEwiL4dHEjrb9AhXx5XMBHTmvD-QQMygHegUIARD8AQ"/>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-1651&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-1651" /> </p>
 
