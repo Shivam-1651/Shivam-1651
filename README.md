@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Shishodia</h1>
 <h3 align="center">Hi,I'am Shivam Shishodia, a Front-end Developer</h3>
- <img src="https://user-images.githubusercontent..." alt="Italian Trulli">
+
+ <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Italian Trulli">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-1651&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-1651" /> </p>
